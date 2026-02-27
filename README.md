@@ -43,8 +43,8 @@ Structured tabular dataset containing:
    - F1 Score
 
 ## Results
-Best performing model: kmeans
-Best accuracy achieved: (write value)
+Best performing model: K Neighbors	74.418605
+6	Random Forest	74.418605
 
 ## Tech Stack
 - Python
